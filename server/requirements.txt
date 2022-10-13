@@ -1,3 +1,4 @@
+rejson
 fastapi
 uuid
 uvicorn

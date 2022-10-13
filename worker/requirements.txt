@@ -1,0 +1,8 @@
+aiohttp
+aioredis 
+python-dotenv
+requests
+rejson
+uuid
+datetime
+pydantic
